@@ -7,7 +7,7 @@ Performed data cleaning and applied linear regression for predictive analysis.
 https://colab.research.google.com/drive/1yBgCDW8X2QICDE2C087UfiRKXnC-XsBN?usp=sharing
 
 Project #2
-Various graphical representations of data using Matplotlib  and Pandas .
+Various graphical representations of data using NumPY, Matplotlib  and Pandas .
 https://colab.research.google.com/drive/1WVGtroZ_YFxNj7xCLS6EKNKLAH7PeakI?usp=sharing
 
 Project #3 
