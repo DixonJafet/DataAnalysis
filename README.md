@@ -16,16 +16,8 @@ A Power BI project designed to monitor and analyze product losses and leftovers 
   <img src="https://github.com/DixonJafet/DataAnalysis/blob/44e98b1927b866c01b9bf4e7fa42c81a1420b618/Project3/Screenshot%202025-11-01%20011036.png" alt="Code and emulator in action" width="300"/><br/>
   <em>Analysis of economic losses</em>
 </p>
-
-<p align="left">
-  <img src="https://github.com/DixonJafet/DataAnalysis/blob/44e98b1927b866c01b9bf4e7fa42c81a1420b618/Project3/Screenshot%202025-11-01%20011430.png" alt="Calculator interface" width="300"/><br/>
-  <em>Analysis of the time lag</em>
-</p>
-
-<p align="left">
-  <img src="https://github.com/DixonJafet/DataAnalysis/blob/44e98b1927b866c01b9bf4e7fa42c81a1420b618/Project3/Screenshot%202025-11-01%20011517.png" alt="Calculator interface" width="300"/><br/>
-  <em>verification of average losses and outliers</em>
-</p>
+ This is the Dashboard:
+ <iframe title="Proyecto" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTgyYmUwMTEtNmJlNS00NzA5LWJjMmMtMzQzMjI2Mjc1NDExIiwidCI6IjRhYmVmM2RjLWU2OTItNGRjOC05MmViLTkxNGExZjdjMmIyMSIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
 Project #4
 A Python Airflow project designed to automate the training of a machine learning model.
