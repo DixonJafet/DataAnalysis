@@ -7,11 +7,11 @@ Performed data cleaning and applied linear regression for predictive analysis.
 **[View Project](https://colab.research.google.com/drive/1yBgCDW8X2QICDE2C087UfiRKXnC-XsBN?usp=sharing)**
 
 ## Project 2
-Various graphical representations of data using NumPY, Matplotlib  and Pandas .
+Various graphical representations of data using NumPY, Matplotlib  and Pandas.
 **[View Project](https://colab.research.google.com/drive/1WVGtroZ_YFxNj7xCLS6EKNKLAH7PeakI?usp=sharing)**
 
 ## Project 3 
-Using a prediction model to predict 
+Use a predictive model to predict flight delays.
 **[View Project](https://github.com/DixonJafet/Flights_Predictions)**
 
 ## Project 4
