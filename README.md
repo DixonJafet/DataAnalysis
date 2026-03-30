@@ -4,20 +4,17 @@ Heasy View of the projects:
 
 Project #1
 Performed data cleaning and applied linear regression for predictive analysis.
-https://colab.research.google.com/drive/1yBgCDW8X2QICDE2C087UfiRKXnC-XsBN?usp=sharing
+
+**[View Project](https://colab.research.google.com/drive/1yBgCDW8X2QICDE2C087UfiRKXnC-XsBN?usp=sharing)**
 
 Project #2
 Various graphical representations of data using NumPY, Matplotlib  and Pandas .
-https://colab.research.google.com/drive/1WVGtroZ_YFxNj7xCLS6EKNKLAH7PeakI?usp=sharing
+**[View Project]([https://github.com/username/project-name](https://colab.research.google.com/drive/1WVGtroZ_YFxNj7xCLS6EKNKLAH7PeakI?usp=sharing))**
 
 Project #3 
-A Power BI project designed to monitor and analyze product losses and leftovers for a specific product type, due to a time lag between inventory counts and other factors.
-<p align="left">
-  <img src="https://github.com/DixonJafet/DataAnalysis/blob/44e98b1927b866c01b9bf4e7fa42c81a1420b618/Project3/Screenshot%202025-11-01%20011036.png" alt="Code and emulator in action" width="300"/><br/>
-  <em>Analysis of economic losses</em>
-</p>
- This is the Dashboard:
- <iframe title="Proyecto" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTgyYmUwMTEtNmJlNS00NzA5LWJjMmMtMzQzMjI2Mjc1NDExIiwidCI6IjRhYmVmM2RjLWU2OTItNGRjOC05MmViLTkxNGExZjdjMmIyMSIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+
+**[View Project](https://github.com/username/project-name)**
+https://github.com/DixonJafet/Flights_Predictions
 
 Project #4
 A Python Airflow project designed to automate the training of a machine learning model.
