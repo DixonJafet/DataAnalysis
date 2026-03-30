@@ -2,19 +2,17 @@ This repository contains several projects related to Data Analysis and ETL proce
 
 Heasy View of the projects:
 
-Project #1
+## Project 1
 Performed data cleaning and applied linear regression for predictive analysis.
-
 **[View Project](https://colab.research.google.com/drive/1yBgCDW8X2QICDE2C087UfiRKXnC-XsBN?usp=sharing)**
 
-Project #2
+## Project 2
 Various graphical representations of data using NumPY, Matplotlib  and Pandas .
-**[View Project]([https://github.com/username/project-name](https://colab.research.google.com/drive/1WVGtroZ_YFxNj7xCLS6EKNKLAH7PeakI?usp=sharing))**
+**[View Project](https://colab.research.google.com/drive/1WVGtroZ_YFxNj7xCLS6EKNKLAH7PeakI?usp=sharing)**
 
-Project #3 
+## Project 3 
+Using a prediction model to predict 
+**[View Project](https://github.com/DixonJafet/Flights_Predictions)**
 
-**[View Project](https://github.com/username/project-name)**
-https://github.com/DixonJafet/Flights_Predictions
-
-Project #4
+## Project 4
 A Python Airflow project designed to automate the training of a machine learning model.
