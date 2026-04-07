@@ -13,3 +13,6 @@ Various graphical representations of data using NumPY, Matplotlib  and Pandas.
 ## Project 3 
 Use a predictive model to predict flight delays.
 **[View Project](https://github.com/DixonJafet/Flights_Predictions)**
+
+## Project 4
+A Python Airflow project designed to automate the training of a machine learning model.
